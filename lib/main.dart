@@ -3,7 +3,7 @@ import 'package:flutter_web_plugins/flutter_web_plugins.dart';
 import 'package:go_router_poc/routes.dart';
 
 void main() {
-  // usePathUrlStrategy();
+  usePathUrlStrategy();
 
   runApp(const MyApp());
 }
